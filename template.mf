@@ -1,0 +1,6 @@
+Excluded-Imports: 
+ com.google.*
+Excluded-Exports: 
+ com.thingtrack.com.vaadin.addons.slidedata.gwt.*
+Unversioned-Imports: 
+ *
